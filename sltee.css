@@ -1,0 +1,30 @@
+.btn-plus {
+  padding: 0px;
+}
+.compteur {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#number1 {
+  border: 1px solid black;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 5px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  font-size: 25px;
+}
+.article {
+  /* border-bottom: 1px solid rebeccapurple; */
+  margin-bottom: 50px;
+}
+.img-1 {
+  filter: drop-shadow(2px 2px 1px);
+  border-radius: 50%;
+}
+.del {
+  margin-left: 20px;
+}
