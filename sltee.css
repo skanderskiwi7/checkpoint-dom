@@ -1,3 +1,8 @@
+#contenaire {
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
 .btn-plus {
   padding: 0px;
 }
@@ -5,6 +10,9 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  background-color: #ffebcd;
+  padding-bottom: 10px;
+  padding-top: 20px;
 }
 
 #number1 {
@@ -20,6 +28,8 @@
 .article {
   /* border-bottom: 1px solid rebeccapurple; */
   margin-bottom: 50px;
+  border: 1px solid black;
+  border-radius: 2px;
 }
 .img-1 {
   filter: drop-shadow(2px 2px 1px);
@@ -28,3 +38,22 @@
 .del {
   margin-left: 20px;
 }
+.fas {
+  margin-left: 50px;
+}
+.prix {
+  background-color: blue;
+  color: aliceblue;
+  font-size: 25px;
+  padding: 10px;
+}
+.price {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.pux {
+  font-size: 25px;
+}
+/* #PU {
+  font-size: 25px;
+} */
